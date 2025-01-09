@@ -1,0 +1,28 @@
+/* Style for all <p> tags */
+p {
+    color: blue;
+    font-style: italic;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    border-style: solid;
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+/* Style for the personal information paragraph */
+.about-me {
+    color: lightgreen;
+    font-weight: bold;
+    font-family: 'San Serif', sans-serif;
+    font-style: italic;
+    border-style: dashed;
+    padding: 15px;
+}
+
+/* Style for the profile picture */
+img {
+    border: 2px solid black;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+}
